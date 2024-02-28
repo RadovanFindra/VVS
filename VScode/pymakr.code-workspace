@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "VVS",
+			"path": ".."
+		},
+		{
+			"name": "serial://dev/tty.usbserial-14240",
+			"uri": "serial:///dev/tty.usbserial-14240/"
+		}
+	]
+}
